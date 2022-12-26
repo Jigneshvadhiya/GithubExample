@@ -5,6 +5,6 @@ public with sharing class myApexOne {
 
         system.debug('This is new line 1');
         system.debug('This is new line 2');
-        
+        system.debug('This is new line 3');
     }
 }
