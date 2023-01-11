@@ -4,6 +4,7 @@
 //     alert('Click event called')
 // }
 
+
 // document.addEventListener('mousemove',handler)
 
 // function handler(){
